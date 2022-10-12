@@ -1,0 +1,12 @@
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\bin\Debug\net6.0\LearningCenter.Shared.deps.json
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\bin\Debug\net6.0\LearningCenter.Shared.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\bin\Debug\net6.0\LearningCenter.Shared.pdb
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.AssemblyInfo.cs
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\refint\LearningCenter.Shared.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\LearningCenter.Shared.pdb
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Shared\obj\Debug\net6.0\ref\LearningCenter.Shared.dll

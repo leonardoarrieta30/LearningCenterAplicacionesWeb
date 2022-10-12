@@ -1,0 +1,15 @@
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\bin\Debug\net6.0\LearningCenter.Domain.infraestructure.deps.json
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\bin\Debug\net6.0\LearningCenter.Domain.infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\bin\Debug\net6.0\LearningCenter.Domain.infraestructure.pdb
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.AssemblyInfo.cs
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\refint\LearningCenter.Domain.infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.pdb
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\ref\LearningCenter.Domain.infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\bin\Debug\net6.0\LearningCenter.Shared.dll
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\bin\Debug\net6.0\LearningCenter.Shared.pdb
+C:\Users\leona\Desktop\Aplicaciones web\LearningCenter\LearningCenter.Domain.infraestructure\obj\Debug\net6.0\LearningCenter.Domain.infraestructure.csproj.CopyComplete
